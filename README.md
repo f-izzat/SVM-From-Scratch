@@ -5,4 +5,5 @@ This code was written during the writing of my undergraduate thesis as a means t
 Note: This should only be used as a educational tool as it was for me. The orginal `LIBSVM` or `sklearn`  should be used instead for actual cases.
 
 References:
-[1] 
+
+[1] Palar, P.S., Izzaturahman, F., Zuhal, L.R.and Shimoyama, K., Prediction of the Flutter Boundary in Aeroelasticity via a Support Vector Machine.
